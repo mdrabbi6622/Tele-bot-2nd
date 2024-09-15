@@ -1,7 +1,7 @@
 import logging
 import requests
 import pymongo
-from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters
+from telegram.ext import Updater, CommandHandler, MessageHandler, filters
 
 # Logging setup
 logging.basicConfig(level=logging.INFO)
