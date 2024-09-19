@@ -1,0 +1,4 @@
+pyrogram==2.0.67
+pymongo==4.4.0
+requests==2.28.1
+aiohttp==3.8.1
